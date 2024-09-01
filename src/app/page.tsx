@@ -169,7 +169,7 @@ export default function Page() {
                   country would come together and build incredible things in 2-3
                   weeks. It was eye-opening to see the endless possibilities
                   brought to life by a group of motivated and passionate
-                  individuals. As I continue to progress in my hackathon journey, I'll log my best wins here.
+                  individuals. As I continue to progress in my hackathon journey, I&apos;ll log my best wins here.
                 </p>
               </div>
             </div>
