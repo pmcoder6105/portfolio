@@ -20,7 +20,7 @@ export default function Page() {
             <div className="flex-col flex flex-1 space-y-1.5">
               <BlurFadeText
                 delay={BLUR_FADE_DELAY}
-                className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
+                className="text-3x1 font-bold tracking-tighter sm:text-5xl xl:text-6x2/none"
                 yOffset={8}
                 text={`Hi, I'm ${DATA.name.split(" ")[0]} 👋`}
               />
@@ -164,12 +164,12 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
+                  During my time in high school, I attended{" "}
                   {DATA.hackathons.length}+ hackathons. People from around the
                   country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
+                  weeks. It was eye-opening to see the endless possibilities
                   brought to life by a group of motivated and passionate
-                  individuals.
+                  individuals. As I continue to progress in my hackathon journey, I'll log my best wins here.
                 </p>
               </div>
             </div>
@@ -206,12 +206,12 @@ export default function Page() {
                 Get in Touch
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Want to chat? Just shoot me a dm{" "}
+                Want to chat? Just shoot{" "}
                 <Link
-                  href={DATA.contact.social.X.url}
+                  href="mailto:pratyush.mahadevaiah@gmail.com"
                   className="text-blue-500 hover:underline"
                 >
-                  with a direct question on twitter
+                  me an email
                 </Link>{" "}
                 and I&apos;ll respond whenever I can. I will ignore all
                 soliciting.
