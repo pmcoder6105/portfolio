@@ -8,9 +8,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Software Developer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
-    "As an ambitious high schooler, life is hard. Despite being a full time honors student, I'm very passionate about business and software engineering. In the summer of 2024, I built my first investor-backed SAAS startup with over $9.6k in revenue. Now, I'm [interning at one of the biggest entrepreneurship incubators](/#work) in the US, in the works of [launching my next big tech startup](/#work), and [competed in over 18 hackathons for fun](/#hackathons).",
+    "As an ambitious high schooler, life is hard. Despite being a full time honors student, I'm very passionate about business and software development. In the summer of 2024, I built my first investor-backed SAAS startup with over $9.6k in revenue. Now, I'm [interning at one of the biggest entrepreneurship incubators](/#work) in the US, in the works of [launching my next big tech startup](/#work), and [competed in over 18 hackathons for fun](/#hackathons). For fun, I like to make professional video games, do competitive programming, and publish research!",
   avatarUrl: "/pratyush3.jpg",
   skills: [
     "React",
@@ -201,7 +201,7 @@ export const DATA = {
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
     {
-      title: "llm.report",
+      title: "Reclaiming History",
       href: "https://llm.report",
       dates: "April 2023 - September 2023",
       active: true,
@@ -220,47 +220,57 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
-          href: "https://llm.report",
+          type: "Devpost",
+          href: "https://equitable-elevation-iii.devpost.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
-          type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
-          icon: <Icons.github className="size-3" />,
+          type: "Article",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://eqhacks.org/winners/reclaiming-history",
+        },
+        {
+          type: "YouTube",
+          icon: <Icons.youtube className="h-4 w-4" />,
+          href: "https://www.youtube.com/watch?v=pEnie1QY-TA",
+        },
+        {
+          type: "Project",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://app.uizard.io/p/f86a54cb",
         },
       ],
       image: "",
       video: "https://cdn.llm.report/openai-demo.mp4",
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      title: "BeanBox: Multiplayer FPS Game",
+      href: "https://pmgamedev.itch.io/beanbox",
+      dates: "June 2022 - February 2023",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "Developed and released an entertaining multiplayer FPS Game to play with friends. With 9 unique maps, millions of customization options, and 5 destructive weapons, you can jump in and see who's the strongest in BeanBox.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "Unity Engine",
+        "C#",
+        "Itch.io",
+        "Photon Engine",
+        "Agora Voice SDK",
+        "Firebase Realtime Database",
+        "ProBuilder",
+        "Universal Render Pipeline",
+        "Cowsins",
       ],
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "https://pmgamedev.itch.io/beanbox",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "/beanbox.mp4",
     },
   ],
   hackathons: [
