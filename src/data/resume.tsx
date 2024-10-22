@@ -206,17 +206,13 @@ export const DATA = {
       dates: "April 2023 - September 2023",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "Improved land inequalities and land grabbing through a social media/community based support app, 'Reclaiming History'. Like-minded individuals are allowed to sign petitions aimed at restoring land to its rightful owners.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
+        "Uizard",
+        "Google Maps",
+        "OAuth",
+        "Paypal",
+        "Devpost",
       ],
       links: [
         {
