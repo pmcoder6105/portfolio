@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Developer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
-    "As an ambitious high schooler, life is hard. Despite being a full time honors student, I'm very passionate about business and software development. In the summer of 2024, I built my first investor-backed SAAS startup with over $9.6k in revenue. Now, I'm [interning at one of the biggest entrepreneurship incubators](/#work) in the US, in the works of [launching my next big tech startup](/#work), and [competed in over 18 hackathons for fun](/#hackathons). For fun, I like to make professional video games, do competitive programming, and publish research!",
+    "As an ambitious high schooler, life is hard. Despite being a full time honors student, I'm very passionate about business and software development. In the summer of 2024, I built my first investor-backed SAAS startup with over $9.6k in revenue. Now, I'm [interning at one of the biggest entrepreneurship incubators](/#work) in the US, in the works of [launching my next big tech startup](/#work), and [competed in over 7+ hackathons for fun](/#hackathons). For fun, I like to make professional video games, do competitive programming, and publish research!",
   avatarUrl: "/pratyush3.jpg",
   skills: [
     "React",
@@ -78,11 +78,23 @@ export const DATA = {
       badges: [],
       location: "San Jose, CA",
       title: "Founder CTO & Product Dev",
-      logoUrl: "/nexlaunch.png",
-      start: "X",
+      logoUrl: "/Ne.png",
+      start: "Launching Soon",
       end: "Launching Soon",
       description:
         "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
+    },
+    {
+      company: "Nova Hacks",
+      href: "https://nova-hacks.netlify.app/",
+      badges: [],
+      location: "San Francisco, CA",
+      title: "Founder & Director",
+      logoUrl: "/novahacks.png",
+      start: "September 2024",
+      end: "Present",
+      description:
+        "Nova Hacks brings int'l hackathons to the developer community to advocate for social good and humanitarianism. To date, we've recieved $20k+ in sponsorships, $1k in donations, and organized several hackathon events."
     },
     {
       company: "BETA Camp",
@@ -90,7 +102,7 @@ export const DATA = {
       href: "https://shopify.com",
       location: "Remote",
       title: "Software Intern",
-      logoUrl: "/betacamp.png",
+      logoUrl: "/prequel.png",
       start: "August 2024",
       end: "Present",
       description:
