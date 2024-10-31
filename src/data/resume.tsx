@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Developer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
-    "As an ambitious high schooler, life is hard. Despite being a full time honors student, I'm very passionate about business and software development. In the summer of 2024, I built my first investor-backed SAAS startup with over $9.6k in revenue. Now, I'm [interning at one of the biggest entrepreneurship incubators](/#work) in the US, in the works of [launching my next big tech startup](/#work), and [competed in over 7+ hackathons for fun](/#hackathons). For fun, I like to make professional video games, do competitive programming, and publish research!",
+    "As an ambitious high schooler, life is hard. Despite being a full time AP student, I'm very passionate about business and software development. In the summer of 2024, I built my first investor-backed SAAS startup with over $9.6k in revenue. Now, I'm [interning at one of the biggest entrepreneurship incubators](/#work) in the US, in the works of [launching my next big tech startup](/#work), and [competed in over 7+ hackathons for fun](/#hackathons). For fun, I like to make professional video games, do competitive programming, and publish research!",
   avatarUrl: "/pratyush3.jpg",
   skills: [
     "React",
