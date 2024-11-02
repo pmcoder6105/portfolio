@@ -116,7 +116,7 @@ export const DATA = {
       title: "Founder CEO & Product Dev",
       logoUrl: "/poppy.png",
       start: "June 2024",
-      end: "November 2024",
+      end: "October 2024",
       description:
         "Poppy, my investor-backed SAAS company, is designed to help small businesses convert site visitors into loyal customers by providing access to no-code tools for conversion rate optimization, such as on-site popups, email capturing, scroll animations, which all help grab visitors attention and make them more interested and willing to buy your product.",
     },
